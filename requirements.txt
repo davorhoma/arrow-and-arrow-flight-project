@@ -1,0 +1,9 @@
+pyarrow
+psycopg2-binary
+pymongo
+pandas
+adbc-driver-postgresql
+time
+datetime
+duckdb
+numpy
